@@ -6,7 +6,7 @@
 
 CNN 모델 Resnet , inception v3 , alexnet 을 구현하고
 
-병에 걸린 잎의 데이터를 증강한 모델 , 증강하지 않은 모델 , Undersampling 한 모델 
+병에 걸린 잎의 데이터를 증강한 모델  , Undersampling 한 모델 
 
 생성 후 학습을 진행
 
